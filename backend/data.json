@@ -1,0 +1,1422 @@
+[
+  {
+    "id": 1,
+    "conference_id": "ai-world-2025",
+    "title": "Intro to Large Language Models",
+    "description": "Beginner-friendly overview of how LLMs work, from tokenisation to inference. No prior ML knowledge required.",
+    "speaker": "Alice Chen",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-10-14"
+  },
+  {
+    "id": 2,
+    "conference_id": "ai-world-2025",
+    "title": "AI for Startups",
+    "description": "Practical strategies for integrating AI into early-stage startups. Covers cost-effective tools and common pitfalls.",
+    "speaker": "Bob Martinez",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-10-14"
+  },
+  {
+    "id": 3,
+    "conference_id": "ai-world-2025",
+    "title": "Advanced Deep Learning Architectures",
+    "description": "In-depth exploration of transformers, diffusion models, and mixture-of-experts. Aimed at experienced ML practitioners.",
+    "speaker": "Charlie Wong",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-10-14"
+  },
+  {
+    "id": 4,
+    "conference_id": "ai-world-2025",
+    "title": "Building RAG Systems in Production",
+    "description": "How to design and deploy retrieval-augmented generation pipelines at scale. Covers vector databases, chunking strategies, and reranking.",
+    "speaker": "Diana Patel",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-10-14"
+  },
+  {
+    "id": 5,
+    "conference_id": "ai-world-2025",
+    "title": "Prompt Engineering Best Practices",
+    "description": "Techniques for writing effective prompts for LLMs, including chain-of-thought, few-shot learning, and structured output.",
+    "speaker": "George Liu",
+    "start_time": 14,
+    "end_time": 15,
+    "date": "2025-10-14"
+  },
+  {
+    "id": 6,
+    "conference_id": "ai-world-2025",
+    "title": "Computer Vision with PyTorch",
+    "description": "Advanced techniques for image classification, object detection, and segmentation using PyTorch and torchvision.",
+    "speaker": "Ivan Sokolov",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-10-15"
+  },
+  {
+    "id": 7,
+    "conference_id": "ai-world-2025",
+    "title": "Machine Learning for Beginners",
+    "description": "A gentle introduction to supervised and unsupervised learning. Includes hands-on examples using scikit-learn.",
+    "speaker": "Fatima Al-Hassan",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-10-15"
+  },
+  {
+    "id": 8,
+    "conference_id": "ai-world-2025",
+    "title": "Ethics and Bias in AI Systems",
+    "description": "Examining fairness, accountability, and transparency in machine learning models. Case studies from real-world deployments.",
+    "speaker": "Julia Nakamura",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-10-15"
+  },
+  {
+    "id": 9,
+    "conference_id": "ai-world-2025",
+    "title": "Vector Databases Explained",
+    "description": "Beginner guide to vector databases like Pinecone, Weaviate, and Chroma. Learn how embeddings are stored and queried efficiently.",
+    "speaker": "Nina Petrov",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-10-15"
+  },
+  {
+    "id": 10,
+    "conference_id": "ai-world-2025",
+    "title": "Reinforcement Learning from Human Feedback",
+    "description": "Deep dive into RLHF techniques used to align language models. Advanced topic for researchers and senior engineers.",
+    "speaker": "Laura Santos",
+    "start_time": 14,
+    "end_time": 15,
+    "date": "2025-10-15"
+  },
+  {
+    "id": 11,
+    "conference_id": "ai-world-2025",
+    "title": "Startup Fundraising in the AI Era",
+    "description": "How investors evaluate AI startups in 2025. Covers pitch decks, unit economics, and what VCs look for in ML teams.",
+    "speaker": "Marcus Johnson",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-10-16"
+  },
+  {
+    "id": 12,
+    "conference_id": "ai-world-2025",
+    "title": "DevOps and MLOps Pipelines",
+    "description": "Automating model training, evaluation, and deployment using CI/CD pipelines, MLflow, and Kubernetes.",
+    "speaker": "Omar Farooq",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-10-16"
+  },
+  {
+    "id": 13,
+    "conference_id": "ai-world-2025",
+    "title": "Cloud-Native Backend Architecture",
+    "description": "Designing scalable backend systems on AWS and GCP. Topics include microservices, serverless functions, and event-driven design.",
+    "speaker": "Hannah Osei",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-10-16"
+  },
+  {
+    "id": 14,
+    "conference_id": "ai-world-2025",
+    "title": "LLM Fine-Tuning on Custom Data",
+    "description": "Step-by-step guide to fine-tuning open-source language models on domain-specific datasets using LoRA and QLoRA.",
+    "speaker": "Priya Sharma",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-10-16"
+  },
+  {
+    "id": 15,
+    "conference_id": "ai-world-2025",
+    "title": "AI Agents and Tool Use",
+    "description": "Building autonomous AI agents that can use tools, browse the web, write code, and complete multi-step tasks reliably.",
+    "speaker": "Daniel Brooks",
+    "start_time": 14,
+    "end_time": 15,
+    "date": "2025-10-16"
+  },
+  {
+    "id": 16,
+    "conference_id": "webtech-2025",
+    "title": "React 19: What's New",
+    "description": "A deep dive into React 19 features including server components, the new compiler, and concurrent rendering improvements.",
+    "speaker": "Sophie Turner",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-11-05"
+  },
+  {
+    "id": 17,
+    "conference_id": "webtech-2025",
+    "title": "TypeScript 5 for Large-Scale Apps",
+    "description": "Advanced TypeScript patterns for maintaining large codebases. Covers generics, decorators, and module augmentation.",
+    "speaker": "Liam O'Brien",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-11-05"
+  },
+  {
+    "id": 18,
+    "conference_id": "webtech-2025",
+    "title": "Serverless at Scale with AWS Lambda",
+    "description": "Patterns and pitfalls for building production serverless applications. Cold starts, observability, and cost optimisation.",
+    "speaker": "Aisha Mensah",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-11-05"
+  },
+  {
+    "id": 19,
+    "conference_id": "webtech-2025",
+    "title": "Web Performance Masterclass",
+    "description": "Core Web Vitals, lazy loading, bundle splitting, and edge caching strategies for sub-second load times.",
+    "speaker": "Carlos Reyes",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-11-05"
+  },
+  {
+    "id": 20,
+    "conference_id": "webtech-2025",
+    "title": "Full-Stack Development with Next.js 15",
+    "description": "Building end-to-end applications using Next.js App Router, Server Actions, Prisma, and PostgreSQL.",
+    "speaker": "Mei Lin",
+    "start_time": 14,
+    "end_time": 15,
+    "date": "2025-11-05"
+  },
+  {
+    "id": 21,
+    "conference_id": "webtech-2025",
+    "title": "Kubernetes for Frontend Teams",
+    "description": "Containerising and deploying web applications with Docker and Kubernetes. GitOps workflows and zero-downtime deployments.",
+    "speaker": "Jake Williams",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-11-06"
+  },
+  {
+    "id": 22,
+    "conference_id": "webtech-2025",
+    "title": "GraphQL vs REST in 2025",
+    "description": "A practical comparison of API design approaches. When to choose GraphQL, REST, or tRPC for your next project.",
+    "speaker": "Nadia Kowalski",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-11-06"
+  },
+  {
+    "id": 23,
+    "conference_id": "webtech-2025",
+    "title": "Web Security: OWASP Top 10",
+    "description": "Hands-on walkthrough of the most critical web application security risks and how to prevent them in modern stacks.",
+    "speaker": "Ravi Patel",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-11-06"
+  },
+  {
+    "id": 24,
+    "conference_id": "webtech-2025",
+    "title": "CSS Architecture at Scale",
+    "description": "Modern CSS techniques including container queries, cascade layers, and design token systems for large design systems.",
+    "speaker": "Emma Rodriguez",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-11-06"
+  },
+  {
+    "id": 25,
+    "conference_id": "webtech-2025",
+    "title": "Building with WebAssembly",
+    "description": "Practical introduction to WASM for high-performance browser applications. Run Rust, C++, and Go in the browser.",
+    "speaker": "Tom Fischer",
+    "start_time": 14,
+    "end_time": 15,
+    "date": "2025-11-06"
+  },
+  {
+    "id": 26,
+    "conference_id": "webtech-2025",
+    "title": "AI-Powered Web Applications",
+    "description": "Integrating LLMs and generative AI into web products. Streaming responses, tool calling, and building reliable AI UIs.",
+    "speaker": "Zara Ahmed",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-11-07"
+  },
+  {
+    "id": 27,
+    "conference_id": "webtech-2025",
+    "title": "Edge Computing and CDN Strategies",
+    "description": "Moving computation to the edge with Cloudflare Workers, Vercel Edge Functions, and Durable Objects.",
+    "speaker": "Ben Carter",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-11-07"
+  },
+  {
+    "id": 28,
+    "conference_id": "webtech-2025",
+    "title": "Micro-Frontends in Practice",
+    "description": "Scaling frontend teams with micro-frontend architectures using Module Federation and independent deployment pipelines.",
+    "speaker": "Hana Suzuki",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-11-07"
+  },
+  {
+    "id": 29,
+    "conference_id": "ml-europe-2025",
+    "title": "Foundation Models: Past, Present, Future",
+    "description": "A comprehensive overview of the foundation model landscape — scaling laws, emergent capabilities, and what comes next.",
+    "speaker": "Dr. Erik Müller",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-12-02"
+  },
+  {
+    "id": 30,
+    "conference_id": "ml-europe-2025",
+    "title": "Responsible AI in Production",
+    "description": "Practical frameworks for deploying AI responsibly. Covers model cards, bias audits, explainability, and regulatory compliance.",
+    "speaker": "Amara Osei",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-12-02"
+  },
+  {
+    "id": 31,
+    "conference_id": "ml-europe-2025",
+    "title": "Efficient Training with LoRA and QLoRA",
+    "description": "Parameter-efficient fine-tuning techniques that make LLM training accessible on consumer hardware.",
+    "speaker": "Sven Andersson",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-12-02"
+  },
+  {
+    "id": 32,
+    "conference_id": "ml-europe-2025",
+    "title": "Time Series Forecasting with Transformers",
+    "description": "Modern approaches to time series prediction using attention-based architectures. Applications in finance and IoT.",
+    "speaker": "Isabelle Dupont",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-12-02"
+  },
+  {
+    "id": 33,
+    "conference_id": "ml-europe-2025",
+    "title": "MLOps with Kubeflow and MLflow",
+    "description": "End-to-end ML pipelines from experiment tracking to model serving. Real-world case studies from European enterprises.",
+    "speaker": "Tomasz Kowalczyk",
+    "start_time": 14,
+    "end_time": 15,
+    "date": "2025-12-02"
+  },
+  {
+    "id": 34,
+    "conference_id": "ml-europe-2025",
+    "title": "Graph Neural Networks for Industry",
+    "description": "Applying GNNs to fraud detection, recommendation systems, and supply chain optimisation at scale.",
+    "speaker": "Lena Braun",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-12-03"
+  },
+  {
+    "id": 35,
+    "conference_id": "ml-europe-2025",
+    "title": "Federated Learning and Data Privacy",
+    "description": "Training ML models across distributed data without centralising sensitive information. GDPR-compliant ML architectures.",
+    "speaker": "Jean-Pierre Moreau",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-12-03"
+  },
+  {
+    "id": 36,
+    "conference_id": "ml-europe-2025",
+    "title": "Multimodal AI: Vision + Language",
+    "description": "Building systems that reason across images, text, and audio. GPT-4V, Gemini, and open-source multimodal models.",
+    "speaker": "Astrid Larsen",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-12-03"
+  },
+  {
+    "id": 37,
+    "conference_id": "ml-europe-2025",
+    "title": "AutoML and Neural Architecture Search",
+    "description": "Automating the design of neural network architectures. Tools, benchmarks, and practical results from NAS research.",
+    "speaker": "Kai Hoffmann",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-12-03"
+  },
+  {
+    "id": 38,
+    "conference_id": "ml-europe-2025",
+    "title": "ML on the Edge: TinyML",
+    "description": "Deploying machine learning models on microcontrollers and IoT devices. Model compression, quantisation, and benchmarks.",
+    "speaker": "Fiona MacLeod",
+    "start_time": 14,
+    "end_time": 15,
+    "date": "2025-12-03"
+  },
+  {
+    "id": 39,
+    "conference_id": "ml-europe-2025",
+    "title": "Open Source LLMs: Llama, Mistral, Falcon",
+    "description": "A practical guide to running, fine-tuning, and serving open-source language models in production environments.",
+    "speaker": "Viktor Petrov",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-12-04"
+  },
+  {
+    "id": 40,
+    "conference_id": "ml-europe-2025",
+    "title": "Causal ML and Counterfactual Reasoning",
+    "description": "Beyond correlation — using causal inference to build more robust and interpretable ML models.",
+    "speaker": "Dr. Sofie Van Den Berg",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-12-04"
+  },
+  {
+    "id": 41,
+    "conference_id": "ml-europe-2025",
+    "title": "ML for Climate and Sustainability",
+    "description": "How machine learning is being applied to climate modelling, energy optimisation, and environmental monitoring.",
+    "speaker": "Björn Eriksson",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-12-04"
+  },
+  {
+    "id": 42,
+    "conference_id": "neurips-2025",
+    "title": "Scaling Laws Beyond GPT-4: What Comes Next",
+    "description": "A deep analysis of empirical scaling laws and where they break down. Covers compute-optimal training, emergent capabilities, and the frontier of next-generation foundation models.",
+    "speaker": "Dr. Ilya Petrov",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-12-09"
+  },
+  {
+    "id": 43,
+    "conference_id": "neurips-2025",
+    "title": "Diffusion Models for Scientific Discovery",
+    "description": "How diffusion-based generative models are accelerating breakthroughs in protein folding, drug design, and materials science. Practical walkthrough of latent diffusion architectures.",
+    "speaker": "Dr. Maya Chen",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-12-09"
+  },
+  {
+    "id": 44,
+    "conference_id": "neurips-2025",
+    "title": "Theory of In-Context Learning",
+    "description": "A rigorous theoretical treatment of why large language models learn from demonstrations at inference time. Covers Bayesian perspectives, gradient descent interpretations, and limits.",
+    "speaker": "Prof. Amir Globerson",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-12-09"
+  },
+  {
+    "id": 45,
+    "conference_id": "neurips-2025",
+    "title": "Mechanistic Interpretability of Transformers",
+    "description": "Reverse-engineering the circuits inside transformer models to understand how they store and retrieve factual knowledge. Covers superposition, polysemanticity, and sparse autoencoders.",
+    "speaker": "Dr. Chris Olah",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-12-10"
+  },
+  {
+    "id": 46,
+    "conference_id": "neurips-2025",
+    "title": "Bayesian Deep Learning in Practice",
+    "description": "Practical uncertainty quantification for deep neural networks. Covers variational inference, Monte Carlo dropout, conformal prediction, and when to use each approach.",
+    "speaker": "Prof. Yarin Gal",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-12-10"
+  },
+  {
+    "id": 47,
+    "conference_id": "neurips-2025",
+    "title": "Reward Modelling for Safe AI",
+    "description": "How to train reward models that reliably capture human preferences without reward hacking. Discusses Constitutional AI, debate-based oversight, and scalable supervision.",
+    "speaker": "Dr. Paul Christiano",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-12-10"
+  },
+  {
+    "id": 48,
+    "conference_id": "neurips-2025",
+    "title": "Efficient Attention: Linear and Sparse Mechanisms",
+    "description": "Survey of attention variants designed to break the quadratic bottleneck: Linformer, Longformer, Flash Attention 3, and state space models. Benchmarks on long-context tasks.",
+    "speaker": "Dr. Tri Dao",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-12-11"
+  },
+  {
+    "id": 49,
+    "conference_id": "neurips-2025",
+    "title": "Neurosymbolic AI: Bridging Learning and Reasoning",
+    "description": "Combining neural networks with symbolic reasoning for tasks requiring structured, compositional thought. Case studies in mathematical reasoning and code generation.",
+    "speaker": "Prof. Joshua Tenenbaum",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-12-11"
+  },
+  {
+    "id": 50,
+    "conference_id": "neurips-2025",
+    "title": "Continual Learning Without Catastrophic Forgetting",
+    "description": "Methods for training models that learn new tasks sequentially without erasing old knowledge. Covers elastic weight consolidation, progressive networks, and memory replay.",
+    "speaker": "Dr. Razvan Pascanu",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2025-12-11"
+  },
+  {
+    "id": 51,
+    "conference_id": "cybersec-2026",
+    "title": "Zero Trust Architecture in the Cloud Era",
+    "description": "Implementing zero trust network access (ZTNA) across hybrid cloud environments. Covers identity-based perimeters, micro-segmentation, and continuous verification principles.",
+    "speaker": "John Kindervag",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-02-18"
+  },
+  {
+    "id": 52,
+    "conference_id": "cybersec-2026",
+    "title": "AI-Powered Threat Detection and Response",
+    "description": "Using machine learning for anomaly detection in network logs, user behaviour analytics (UEBA), and automated incident response. Real SOC deployment case studies.",
+    "speaker": "Lily Nguyen",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-02-18"
+  },
+  {
+    "id": 53,
+    "conference_id": "cybersec-2026",
+    "title": "Red Teaming LLMs: Adversarial Attacks on AI",
+    "description": "Prompt injection, jailbreaks, data poisoning, and model extraction attacks explained with live demos. Defensive strategies for production AI deployments.",
+    "speaker": "Marcus Hutchins",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-02-18"
+  },
+  {
+    "id": 54,
+    "conference_id": "cybersec-2026",
+    "title": "Securing Kubernetes Clusters at Scale",
+    "description": "Hardening Kubernetes: RBAC best practices, secrets management with Vault, network policies, runtime security with Falco, and supply chain security with Sigstore.",
+    "speaker": "Liz Rice",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-02-19"
+  },
+  {
+    "id": 55,
+    "conference_id": "cybersec-2026",
+    "title": "Supply Chain Security and SBOM",
+    "description": "Software bill of materials, dependency auditing, and securing CI/CD pipelines. Lessons from SolarWinds, Log4Shell, and the XZ Utils backdoor.",
+    "speaker": "Dan Lorenc",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-02-19"
+  },
+  {
+    "id": 56,
+    "conference_id": "cybersec-2026",
+    "title": "Ransomware Response Playbook",
+    "description": "Step-by-step incident response for ransomware attacks: containment, forensics, recovery, and communication. Covers backups, cyber insurance, and negotiation decisions.",
+    "speaker": "Sherri Davidoff",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-02-19"
+  },
+  {
+    "id": 57,
+    "conference_id": "cybersec-2026",
+    "title": "Modern Identity: OAuth 2.1, FIDO2, and Passkeys",
+    "description": "The state of modern authentication and authorisation. Deep dive into passkeys, hardware security keys, OAuth 2.1 best practices, and eliminating passwords for good.",
+    "speaker": "Aaron Parecki",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-02-20"
+  },
+  {
+    "id": 58,
+    "conference_id": "cybersec-2026",
+    "title": "Cryptography for Developers",
+    "description": "Practical cryptography without the math. Symmetric vs asymmetric encryption, TLS internals, hashing, signing, and common mistakes that lead to vulnerabilities.",
+    "speaker": "Thomas Ptacek",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-02-20"
+  },
+  {
+    "id": 59,
+    "conference_id": "cybersec-2026",
+    "title": "EU AI Act and Cybersecurity Compliance in 2026",
+    "description": "Navigating overlapping regulatory requirements: the EU AI Act, NIS2, GDPR, and DORA. What security and engineering teams must do to stay compliant.",
+    "speaker": "Dr. Kris Shrishak",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-02-20"
+  },
+  {
+    "id": 60,
+    "conference_id": "web3-summit-2026",
+    "title": "Building Decentralised Apps with Ethereum",
+    "description": "End-to-end dApp development: Solidity contracts, Hardhat, Foundry, ethers.js, and connecting to MetaMask. Best practices for gas optimisation and upgradeable contracts.",
+    "speaker": "Austin Griffith",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-03-10"
+  },
+  {
+    "id": 61,
+    "conference_id": "web3-summit-2026",
+    "title": "DeFi Protocols: Design and Security",
+    "description": "Architecture of automated market makers, lending protocols, and yield aggregators. Common DeFi vulnerabilities: flash loan attacks, reentrancy, and oracle manipulation.",
+    "speaker": "Hayden Adams",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-03-10"
+  },
+  {
+    "id": 62,
+    "conference_id": "web3-summit-2026",
+    "title": "Zero-Knowledge Proofs for Privacy",
+    "description": "Intuitive introduction to ZK-SNARKs and ZK-STARKs. Practical applications: private transactions, identity verification, and ZK-rollups for scalable blockchains.",
+    "speaker": "Eli Ben-Sasson",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-03-10"
+  },
+  {
+    "id": 63,
+    "conference_id": "web3-summit-2026",
+    "title": "Smart Contract Auditing Best Practices",
+    "description": "How professional auditors find vulnerabilities in Solidity code. Covers static analysis tools, fuzzing with Echidna, formal verification, and a live audit walkthrough.",
+    "speaker": "samczsun",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-03-11"
+  },
+  {
+    "id": 64,
+    "conference_id": "web3-summit-2026",
+    "title": "Layer 2 Scaling: Optimistic vs ZK Rollups",
+    "description": "Technical comparison of Optimism, Arbitrum, zkSync, and StarkNet. Trade-offs in finality, decentralisation, EVM equivalence, and developer experience.",
+    "speaker": "Karl Floersch",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-03-11"
+  },
+  {
+    "id": 65,
+    "conference_id": "web3-summit-2026",
+    "title": "DAO Governance: Lessons from the Field",
+    "description": "Governance design patterns for decentralised autonomous organisations. Voter apathy, plutocracy risks, optimistic governance, and case studies from MakerDAO and Uniswap.",
+    "speaker": "Vitalik Buterin",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-03-11"
+  },
+  {
+    "id": 66,
+    "conference_id": "web3-summit-2026",
+    "title": "Cross-Chain Interoperability Protocols",
+    "description": "How bridges, messaging protocols (LayerZero, Wormhole), and the Inter-Blockchain Communication (IBC) protocol enable assets and data to move between chains.",
+    "speaker": "Keone Hon",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-03-12"
+  },
+  {
+    "id": 67,
+    "conference_id": "web3-summit-2026",
+    "title": "Tokenomics: Designing Sustainable Token Economies",
+    "description": "Economic modelling for token systems. Supply schedules, vesting, staking incentives, liquidity bootstrapping, and avoiding common tokenomics failure modes.",
+    "speaker": "Hasu",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-03-12"
+  },
+  {
+    "id": 68,
+    "conference_id": "web3-summit-2026",
+    "title": "NFTs Beyond Speculation: Real-World Use Cases",
+    "description": "NFTs as digital identity, event tickets, IP licensing, on-chain credentials, and gaming assets. Technical standards: ERC-721, ERC-1155, and ERC-4337 account abstraction.",
+    "speaker": "Gmoney",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-03-12"
+  },
+  {
+    "id": 69,
+    "conference_id": "kubecon-eu-2026",
+    "title": "Kubernetes 1.32: What's New",
+    "description": "Tour of the latest Kubernetes release: new APIs, graduation of sidecar containers, improvements to scheduling, storage enhancements, and the evolving gateway API.",
+    "speaker": "Tim Hockin",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-03-24"
+  },
+  {
+    "id": 70,
+    "conference_id": "kubecon-eu-2026",
+    "title": "Service Mesh Deep Dive: Istio vs Cilium",
+    "description": "Comparing eBPF-based (Cilium) and sidecar-based (Istio) service mesh architectures. Performance benchmarks, feature gaps, and migration considerations.",
+    "speaker": "Liz Rice",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-03-24"
+  },
+  {
+    "id": 71,
+    "conference_id": "kubecon-eu-2026",
+    "title": "GitOps at Scale with Flux and Argo CD",
+    "description": "Managing hundreds of clusters with GitOps. Flux vs Argo CD comparison, multi-tenancy patterns, secrets management, and progressive delivery with Flagger.",
+    "speaker": "Stefan Prodan",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-03-24"
+  },
+  {
+    "id": 72,
+    "conference_id": "kubecon-eu-2026",
+    "title": "Observability with OpenTelemetry",
+    "description": "Implementing distributed tracing, metrics, and logs with the OpenTelemetry standard. Instrumenting Go and Python services, auto-instrumentation, and choosing a backend.",
+    "speaker": "Yuri Shkuro",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-03-25"
+  },
+  {
+    "id": 73,
+    "conference_id": "kubecon-eu-2026",
+    "title": "Platform Engineering: Building Internal Developer Portals",
+    "description": "Designing and operating Internal Developer Portals with Backstage. Golden paths, self-service infrastructure, cognitive load reduction, and measuring developer productivity.",
+    "speaker": "Kaspar von Grünberg",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-03-25"
+  },
+  {
+    "id": 74,
+    "conference_id": "kubecon-eu-2026",
+    "title": "Running AI and GPU Workloads on Kubernetes",
+    "description": "Scheduling GPU workloads, NVIDIA device plugins, time-slicing, MIG support, and multi-node distributed training jobs on Kubernetes. Cost optimisation strategies.",
+    "speaker": "Kevin Klues",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-03-25"
+  },
+  {
+    "id": 75,
+    "conference_id": "kubecon-eu-2026",
+    "title": "eBPF: Networking and Observability at the Kernel Level",
+    "description": "How eBPF is revolutionising Linux networking, security, and observability. Writing safe eBPF programs, libbpf, and real-world deployments in production Kubernetes clusters.",
+    "speaker": "Daniel Borkmann",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-03-26"
+  },
+  {
+    "id": 76,
+    "conference_id": "kubecon-eu-2026",
+    "title": "Policy as Code with OPA and Kyverno",
+    "description": "Enforcing security, compliance, and best-practice policies across Kubernetes clusters using Open Policy Agent and Kyverno. Mutation, validation, and generating resources.",
+    "speaker": "Torin Sandall",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-03-26"
+  },
+  {
+    "id": 77,
+    "conference_id": "kubecon-eu-2026",
+    "title": "Multi-Cluster Kubernetes for Global Applications",
+    "description": "Federating Kubernetes clusters across regions with KubeFed, Submariner, and Skupper. Traffic routing, data residency, disaster recovery, and cost management.",
+    "speaker": "Christian Posta",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-03-26"
+  },
+  {
+    "id": 78,
+    "conference_id": "pycon-2026",
+    "title": "Python 3.15: Performance and New Language Features",
+    "description": "What's new in CPython 3.15. Faster startup with frozen stdlib, JIT compiler progress, new syntax features, and the deprecation roadmap. Live benchmarks included.",
+    "speaker": "Guido van Rossum",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-04-15"
+  },
+  {
+    "id": 79,
+    "conference_id": "pycon-2026",
+    "title": "Async Python Patterns for High-Throughput APIs",
+    "description": "Deep dive into asyncio, structured concurrency with anyio/trio, async generators, and the pitfalls of mixing sync and async code in production FastAPI services.",
+    "speaker": "Łukasz Langa",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-04-15"
+  },
+  {
+    "id": 80,
+    "conference_id": "pycon-2026",
+    "title": "Building Beautiful CLIs with Typer and Rich",
+    "description": "Creating polished command-line tools in Python. Auto-generated help text, progress bars, rich tables, and distributing standalone binaries with PyInstaller and Nuitka.",
+    "speaker": "Sebastian Ramirez",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-04-15"
+  },
+  {
+    "id": 81,
+    "conference_id": "pycon-2026",
+    "title": "Testing Python: From pytest Basics to Property-Based Testing",
+    "description": "Comprehensive testing strategies for Python applications. pytest fixtures and plugins, mocking, snapshot testing, and Hypothesis for property-based and fuzzing tests.",
+    "speaker": "Zac Hatfield-Dodds",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-04-16"
+  },
+  {
+    "id": 82,
+    "conference_id": "pycon-2026",
+    "title": "FastAPI in Production: Patterns and Pitfalls",
+    "description": "Taking FastAPI from prototype to production. Background tasks, dependency injection patterns, middleware, background workers with Celery, and monitoring with OpenTelemetry.",
+    "speaker": "Sebastián Ramírez",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-04-16"
+  },
+  {
+    "id": 83,
+    "conference_id": "pycon-2026",
+    "title": "Scientific Python in 2026: NumPy, Polars, and Narwhals",
+    "description": "The evolving scientific Python stack. NumPy 2.0 changes, replacing pandas with Polars for performance, and Narwhals for dataframe-agnostic library code.",
+    "speaker": "Marco Gorelli",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-04-16"
+  },
+  {
+    "id": 84,
+    "conference_id": "pycon-2026",
+    "title": "Python Packaging in 2026: uv, pyproject.toml, PEP 723",
+    "description": "The new Python packaging landscape. uv as a blazing-fast pip replacement, pyproject.toml-only projects, PEP 723 inline script metadata, and the demise of setup.py.",
+    "speaker": "Charlie Marsh",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-04-17"
+  },
+  {
+    "id": 85,
+    "conference_id": "pycon-2026",
+    "title": "Type Annotations and Static Analysis with Pyright",
+    "description": "Practical typing for Python: Annotated types, TypeVar, ParamSpec, Protocol classes, overloads, and using Pyright for strict type checking in large codebases.",
+    "speaker": "Eric Traut",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-04-17"
+  },
+  {
+    "id": 86,
+    "conference_id": "pycon-2026",
+    "title": "Building LLM Applications with Python",
+    "description": "Integrating OpenAI, Anthropic, and open-source LLMs into Python apps. Streaming responses, tool calling, structured outputs with Pydantic, and building RAG pipelines.",
+    "speaker": "Simon Willison",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-04-17"
+  },
+  {
+    "id": 87,
+    "conference_id": "data-ai-2026",
+    "title": "Apache Spark 4.0: What's New and What's Fast",
+    "description": "Performance improvements, new APIs, and the move to Spark Connect. ANSI mode by default, improved error messages, and benchmarks showing 3x speed gains on common workloads.",
+    "speaker": "Dongjoon Hyun",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-09"
+  },
+  {
+    "id": 88,
+    "conference_id": "data-ai-2026",
+    "title": "Delta Lake in Depth: ACID Transactions at Scale",
+    "description": "Deep dive into Delta Lake internals: transaction logs, liquid clustering, deletion vectors, and row-level concurrency. Migrating from Parquet and Hive tables.",
+    "speaker": "Michael Armbrust",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-06-09"
+  },
+  {
+    "id": 89,
+    "conference_id": "data-ai-2026",
+    "title": "Real-Time Streaming with Kafka and Flink",
+    "description": "Building low-latency data pipelines combining Apache Kafka for ingestion and Apache Flink for stateful stream processing. Exactly-once semantics, windowing, and CDC.",
+    "speaker": "Stephan Ewen",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-06-09"
+  },
+  {
+    "id": 90,
+    "conference_id": "data-ai-2026",
+    "title": "Feature Stores for Machine Learning at Scale",
+    "description": "Designing and operating a feature store for real-time ML. Tecton, Feast, and Hopsworks compared. Online vs offline feature serving, backfills, and point-in-time correctness.",
+    "speaker": "Mike Del Balso",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-10"
+  },
+  {
+    "id": 91,
+    "conference_id": "data-ai-2026",
+    "title": "Data Mesh in Practice: Lessons After Two Years",
+    "description": "Honest post-mortem on implementing data mesh at scale. What worked, what didn't, the real organisational cost, and how to avoid common pitfalls in domain ownership.",
+    "speaker": "Zhamak Dehghani",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-06-10"
+  },
+  {
+    "id": 92,
+    "conference_id": "data-ai-2026",
+    "title": "dbt + Databricks: Analytics Engineering at Scale",
+    "description": "Using dbt Core and dbt Cloud with Databricks SQL. Incremental models, snapshot tables, dbt Mesh for multi-project setups, and testing data quality with dbt-expectations.",
+    "speaker": "Drew Banin",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-06-10"
+  },
+  {
+    "id": 93,
+    "conference_id": "data-ai-2026",
+    "title": "Vector Search in the Lakehouse",
+    "description": "Integrating vector embeddings and similarity search directly into Delta Lake. Use cases: semantic search, RAG pipelines, and recommendation systems at petabyte scale.",
+    "speaker": "Matei Zaharia",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-11"
+  },
+  {
+    "id": 94,
+    "conference_id": "data-ai-2026",
+    "title": "Monitoring Data Quality in Production",
+    "description": "Automated data quality checks at every stage of the pipeline. Great Expectations, Monte Carlo, anomaly detection with ML, and building SLAs for data products.",
+    "speaker": "Barr Moses",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-06-11"
+  },
+  {
+    "id": 95,
+    "conference_id": "data-ai-2026",
+    "title": "LLMs Meet Structured Data: Text-to-SQL in Production",
+    "description": "Building reliable natural-language-to-SQL systems. Schema-aware prompting, execution feedback, hallucination mitigation, and evaluation benchmarks for enterprise use cases.",
+    "speaker": "Tao Yu",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-06-11"
+  },
+  {
+    "id": 96,
+    "conference_id": "react-summit-2026",
+    "title": "React 20: Server Components and the New Mental Model",
+    "description": "The complete picture of React Server Components: what runs where, data fetching patterns, streaming HTML, and how the App Router changes how you think about React.",
+    "speaker": "Dan Abramov",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-15"
+  },
+  {
+    "id": 97,
+    "conference_id": "react-summit-2026",
+    "title": "Building Design Systems with React and Storybook 9",
+    "description": "Scalable design system architecture: component APIs, compound components, polymorphic components, Storybook 9 features, and testing visual regressions with Chromatic.",
+    "speaker": "Michael Shilman",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-06-15"
+  },
+  {
+    "id": 98,
+    "conference_id": "react-summit-2026",
+    "title": "React Native New Architecture: Fabric and JSI",
+    "description": "The New Architecture in production: synchronous native modules, the Fabric renderer, migration from the old bridge, and writing Turbo Modules for performance-critical code.",
+    "speaker": "Lorenzo Sciandra",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-06-15"
+  },
+  {
+    "id": 99,
+    "conference_id": "react-summit-2026",
+    "title": "State Management in 2026: Zustand, Jotai, and TanStack Query",
+    "description": "Choosing the right state management approach. When to use server state (TanStack Query), client state (Zustand/Jotai), and when Redux is still the right answer.",
+    "speaker": "Daishi Kato",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-16"
+  },
+  {
+    "id": 100,
+    "conference_id": "react-summit-2026",
+    "title": "React Performance: Profiling and Optimisation Playbook",
+    "description": "Systematic approach to finding and fixing React performance problems. React DevTools Profiler, why-did-you-render, virtualisation, code splitting, and React Compiler.",
+    "speaker": "Nadia Makarevich",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-06-16"
+  },
+  {
+    "id": 101,
+    "conference_id": "react-summit-2026",
+    "title": "Accessibility-First React Development",
+    "description": "Building truly accessible React apps from the ground up. ARIA patterns, focus management, keyboard navigation, testing with axe-core, and screen reader compatibility.",
+    "speaker": "Devon Govett",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-06-16"
+  },
+  {
+    "id": 102,
+    "conference_id": "react-summit-2026",
+    "title": "Testing React in 2026: Vitest and Testing Library",
+    "description": "Modern React testing strategies. Unit tests with Vitest, integration tests with Testing Library, MSW for API mocking, and end-to-end tests with Playwright.",
+    "speaker": "Kent C. Dodds",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-17"
+  },
+  {
+    "id": 103,
+    "conference_id": "react-summit-2026",
+    "title": "AI-Powered React: Streaming UIs with LLM APIs",
+    "description": "Building React interfaces for generative AI: streaming text, tool call UIs, optimistic updates, error boundaries for AI failures, and the Vercel AI SDK.",
+    "speaker": "Jared Palmer",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-06-17"
+  },
+  {
+    "id": 104,
+    "conference_id": "react-summit-2026",
+    "title": "Micro-Frontend Architecture with Module Federation 2.0",
+    "description": "Scaling frontend development across teams with Webpack Module Federation 2.0 and Rspack. Independent deployments, shared dependencies, and runtime integration patterns.",
+    "speaker": "Zack Jackson",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-06-17"
+  },
+  {
+    "id": 105,
+    "conference_id": "icml-2026",
+    "title": "Optimisation Landscape of Deep Neural Networks",
+    "description": "Theoretical analysis of why SGD and Adam find good solutions despite the non-convex loss landscape. Loss surface geometry, sharpness-aware minimisation, and learning rate schedules.",
+    "speaker": "Prof. Sham Kakade",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-13"
+  },
+  {
+    "id": 106,
+    "conference_id": "icml-2026",
+    "title": "Flow Matching: A Unified View of Generative Models",
+    "description": "Continuous normalising flows and flow matching as a unifying framework connecting diffusion models, score matching, and optimal transport. Training and sampling algorithms.",
+    "speaker": "Dr. Yaron Lipman",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-13"
+  },
+  {
+    "id": 107,
+    "conference_id": "icml-2026",
+    "title": "Generalisation Bounds for Overparameterised Networks",
+    "description": "Why massively overparameterised models still generalise. PAC-Bayes bounds, implicit regularisation, double descent, and new complexity measures beyond VC dimension.",
+    "speaker": "Prof. Peter Bartlett",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-07-13"
+  },
+  {
+    "id": 108,
+    "conference_id": "icml-2026",
+    "title": "Self-Supervised Learning: JEPA and Beyond",
+    "description": "The evolution from contrastive learning (SimCLR, MoCo) to joint embedding predictive architectures (JEPA). World models, video prediction, and learning representations without labels.",
+    "speaker": "Dr. Yann LeCun",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-14"
+  },
+  {
+    "id": 109,
+    "conference_id": "icml-2026",
+    "title": "Mixture-of-Experts: Routing, Efficiency, and Stability",
+    "description": "Training sparse MoE models at scale. Load balancing losses, expert collapse, auxiliary loss-free routing, and lessons from training 100B+ parameter MoE language models.",
+    "speaker": "Noam Shazeer",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-14"
+  },
+  {
+    "id": 110,
+    "conference_id": "icml-2026",
+    "title": "Safe Exploration in Reinforcement Learning",
+    "description": "Constrained MDPs, Lyapunov-based safety, and model-based approaches for deploying RL agents in safety-critical environments such as robotics and autonomous driving.",
+    "speaker": "Prof. Pieter Abbeel",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-07-14"
+  },
+  {
+    "id": 111,
+    "conference_id": "icml-2026",
+    "title": "Algorithmic Fairness: Metrics, Trade-offs, and Practice",
+    "description": "Survey of fairness metrics: demographic parity, equalised odds, calibration. Incompatibility theorems, post-processing methods, and fairness under distribution shift.",
+    "speaker": "Prof. Moritz Hardt",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-15"
+  },
+  {
+    "id": 112,
+    "conference_id": "icml-2026",
+    "title": "Graph Foundation Models",
+    "description": "Pre-training large models on graph-structured data. Cross-domain transfer on molecular, social, and knowledge graphs. Architecture choices and benchmark evaluation.",
+    "speaker": "Dr. Jure Leskovec",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-15"
+  },
+  {
+    "id": 113,
+    "conference_id": "icml-2026",
+    "title": "Uncertainty Quantification for Reliable ML",
+    "description": "Distinguishing aleatoric from epistemic uncertainty. Conformal prediction, deep ensembles, and temperature scaling. Calibration in high-stakes domains like medicine and law.",
+    "speaker": "Prof. Shakir Mohamed",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-07-15"
+  },
+  {
+    "id": 114,
+    "conference_id": "oss-summit-2026",
+    "title": "State of the Linux Kernel in 2026",
+    "description": "What's new in the Linux 6.x series: Rust in the kernel, real-time preemption, improved scheduler, memory folios, and the challenges of maintaining the world's largest open-source project.",
+    "speaker": "Greg Kroah-Hartman",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-14"
+  },
+  {
+    "id": 115,
+    "conference_id": "oss-summit-2026",
+    "title": "Your First Open Source Contribution",
+    "description": "A practical guide for first-time contributors: finding beginner-friendly projects, reading codebases, writing your first pull request, and navigating code review feedback.",
+    "speaker": "Julia Ferraioli",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-14"
+  },
+  {
+    "id": 116,
+    "conference_id": "oss-summit-2026",
+    "title": "Open Source Business Models That Actually Work",
+    "description": "Analysis of open-core, support, dual licensing, cloud exclusivity, and foundation models. What's working in 2026, the cloud provider problem, and new experiments in sustainability.",
+    "speaker": "Heather Meeker",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-09-14"
+  },
+  {
+    "id": 117,
+    "conference_id": "oss-summit-2026",
+    "title": "Open Source Security: Lessons from Log4Shell and XZ Utils",
+    "description": "Post-mortems on the most impactful open source supply chain attacks. Memory-safe languages, SBOM adoption, OpenSSF Scorecard, and building a security culture in small projects.",
+    "speaker": "Aeva Black",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 118,
+    "conference_id": "oss-summit-2026",
+    "title": "Sustaining Open Source: Funding and Governance Models",
+    "description": "The maintainer burnout crisis and what to do about it. GitHub Sponsors, Open Collective, Sovereign Tech Fund, fiscal hosts, and governance structures that attract long-term contributors.",
+    "speaker": "Nadia Asparouhova",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 119,
+    "conference_id": "oss-summit-2026",
+    "title": "Open Source LLMs vs Proprietary APIs in 2026",
+    "description": "The state of the open LLM ecosystem: Llama, Mistral, Phi, and Falcon. When to self-host vs use an API, quantisation options, and the real costs of running open models.",
+    "speaker": "Simon Willison",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 120,
+    "conference_id": "oss-summit-2026",
+    "title": "Building Inclusive Open Source Communities",
+    "description": "Practical diversity and inclusion for open source projects: contributor ladders, codes of conduct that work, mentorship programmes, and measuring community health.",
+    "speaker": "Sage Sharp",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-16"
+  },
+  {
+    "id": 121,
+    "conference_id": "oss-summit-2026",
+    "title": "WebAssembly Beyond the Browser: WASI and Components",
+    "description": "The WASM component model and WASI: running WebAssembly on servers, edge functions, and embedded systems. Language support, toolchains, and the future of portable computing.",
+    "speaker": "Lin Clark",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-16"
+  },
+  {
+    "id": 122,
+    "conference_id": "oss-summit-2026",
+    "title": "Open Standards and Interoperability in AI",
+    "description": "Why open standards matter for the AI ecosystem: ONNX, MLflow model formats, OpenAPI for LLMs, and the push for open model weights as a public good.",
+    "speaker": "Ibrahim Haddad",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-09-16"
+  },
+  {
+    "id": 123,
+    "conference_id": "healthtech-ai-2026",
+    "title": "AI Diagnostics: From Radiology to Digital Pathology",
+    "description": "Clinical deployment of AI diagnostic tools. FDA-cleared models for chest X-ray, CT, MRI, and digital pathology. Radiologist workflow integration, performance metrics, and liability.",
+    "speaker": "Dr. Eric Topol",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 124,
+    "conference_id": "healthtech-ai-2026",
+    "title": "LLMs in the Electronic Health Record",
+    "description": "Deploying large language models inside hospital EHR systems: clinical note summarisation, discharge letter generation, prior authorisation automation, and hallucination risks.",
+    "speaker": "Dr. Nigam Shah",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 125,
+    "conference_id": "healthtech-ai-2026",
+    "title": "Federated Learning for Privacy-Preserving Healthcare AI",
+    "description": "Training ML models across hospital networks without sharing raw patient data. FLUTE, PySyft, differential privacy guarantees, and real-world federated deployments in the NHS.",
+    "speaker": "Dr. Nicola Rieke",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-10-05"
+  },
+  {
+    "id": 126,
+    "conference_id": "healthtech-ai-2026",
+    "title": "Drug Discovery with Generative AI",
+    "description": "How diffusion models and transformers are accelerating small molecule design, protein-ligand docking, and ADMET property prediction. AlphaFold 3 and its impact on pharma pipelines.",
+    "speaker": "Dr. John Jumper",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-06"
+  },
+  {
+    "id": 127,
+    "conference_id": "healthtech-ai-2026",
+    "title": "Clinical Decision Support Systems in Practice",
+    "description": "Designing AI systems that augment rather than replace clinician judgment. Sepsis prediction, early deterioration alerts, alert fatigue, and measuring real-world clinical impact.",
+    "speaker": "Dr. Leo Anthony Celi",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-06"
+  },
+  {
+    "id": 128,
+    "conference_id": "healthtech-ai-2026",
+    "title": "Wearables and Continuous Health Monitoring with AI",
+    "description": "Extracting clinical signals from consumer wearables: Apple Watch ECG, continuous glucose monitors, sleep tracking, and using on-device ML for real-time health alerts.",
+    "speaker": "Dr. Conor Heneghan",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2026-10-06"
+  },
+  {
+    "id": 129,
+    "conference_id": "healthtech-ai-2026",
+    "title": "Regulatory Pathways for AI Medical Devices (FDA & CE)",
+    "description": "Navigating FDA 510(k) and De Novo pathways for Software as a Medical Device (SaMD). EU AI Act requirements for high-risk AI, post-market surveillance, and change management.",
+    "speaker": "Dr. Bakul Patel",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 130,
+    "conference_id": "healthtech-ai-2026",
+    "title": "Genomics and Personalised Medicine with Machine Learning",
+    "description": "ML approaches to variant calling, polygenic risk scores, pharmacogenomics, and multi-omics data integration. Moving from research to clinical genomics pipelines.",
+    "speaker": "Dr. Eran Segal",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-07"
+  },
+  {
+    "id": 131,
+    "conference_id": "healthtech-ai-2026",
+    "title": "Mental Health Tech: AI for Therapy and Monitoring",
+    "description": "AI-assisted cognitive behavioural therapy, passive sensing for mood prediction, conversational agents for mental health support, and the ethical boundaries of AI in psychiatry.",
+    "speaker": "Dr. Rosa Arriaga",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-10-07"
+  },
+  {
+    "conference_id": "react-summit-2026",
+    "title": "Concurrent React: Fiber Reconciler Deep Dive",
+    "description": "A low-level tour of the React Fiber architecture — how the reconciler schedules, interrupts, and resumes work for concurrent features like Suspense and transitions.",
+    "speaker": "Priya Shankar",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-15",
+    "id": 132
+  },
+  {
+    "conference_id": "react-summit-2026",
+    "title": "From Redux to Signals: Modern State Patterns",
+    "description": "Comparing Redux Toolkit, Zustand, Jotai, and the new React Signals proposal. Practical migration paths and trade-offs for large codebases.",
+    "speaker": "Tomáš Novák",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-06-16",
+    "id": 133
+  },
+  {
+    "conference_id": "react-summit-2026",
+    "title": "React Compiler: Automatic Memoisation in Practice",
+    "description": "Hands-on walkthrough of the React Compiler — how it analyses your components, what it rewrites, and how to handle edge cases where it gets things wrong.",
+    "speaker": "Yuki Tanaka",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-06-17",
+    "id": 134
+  },
+  {
+    "conference_id": "ai-world-2025",
+    "title": "Multimodal AI: Vision, Audio and Text Together",
+    "description": "How modern multimodal models like GPT-4o and Gemini process images, audio, and text in a single architecture. Includes practical API examples.",
+    "speaker": "Samuel Osei",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-10-14",
+    "id": 135
+  },
+  {
+    "conference_id": "ai-world-2025",
+    "title": "AI Safety and Alignment: Current Research",
+    "description": "Survey of the latest alignment techniques — RLHF, Constitutional AI, and debate. What risks remain unsolved and how the research community is responding.",
+    "speaker": "Elena Kozlov",
+    "start_time": 13,
+    "end_time": 14,
+    "date": "2025-10-15",
+    "id": 136
+  },
+  {
+    "conference_id": "ai-world-2025",
+    "title": "Fine-Tuning vs Prompting: When to Use Which",
+    "description": "Decision framework for choosing between few-shot prompting, LoRA fine-tuning, and full fine-tuning. Real cost and latency benchmarks across task types.",
+    "speaker": "Marcus Reid",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-10-16",
+    "id": 137
+  },
+  {
+    "conference_id": "pycon-2026",
+    "title": "Building REST APIs with Django 5 and DRF",
+    "description": "End-to-end guide to building production REST APIs with Django 5: custom authentication, serialisers, pagination, and OpenAPI schema generation.",
+    "speaker": "Amara Diallo",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-04-15",
+    "id": 138
+  },
+  {
+    "conference_id": "pycon-2026",
+    "title": "Python for Data Science: Pandas 3 and Polars",
+    "description": "Side-by-side comparison of Pandas 3 copy-on-write semantics and Polars lazy evaluation. Benchmarks on real datasets and when to reach for each library.",
+    "speaker": "Lena Fischer",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-04-16",
+    "id": 139
+  },
+  {
+    "conference_id": "pycon-2026",
+    "title": "Web Scraping at Scale with Playwright and Python",
+    "description": "Scraping modern JavaScript-heavy sites using Playwright's async Python API. Covers rate limiting, proxy rotation, and storing results in a structured pipeline.",
+    "speaker": "Omar Khalid",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-04-17",
+    "id": 140
+  },
+  {
+    "conference_id": "neurips-2025",
+    "title": "Foundation Models for Code: Beyond GitHub Copilot",
+    "description": "Deep dive into code-generation models — training data, evaluation benchmarks, and the gap between benchmark performance and real developer productivity.",
+    "speaker": "Kenji Watanabe",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2025-12-09",
+    "id": 141
+  },
+  {
+    "conference_id": "neurips-2025",
+    "title": "Graph Neural Networks for Molecular Property Prediction",
+    "description": "How GNNs are transforming drug discovery — representing molecules as graphs, predicting binding affinity, and accelerating virtual screening pipelines.",
+    "speaker": "Sophie Lefebvre",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2025-12-10",
+    "id": 142
+  }
+]
