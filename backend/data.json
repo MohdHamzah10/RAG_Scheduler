@@ -1418,5 +1418,1065 @@
     "end_time": 11,
     "date": "2025-12-10",
     "id": 142
+  },
+  {
+    "id": 143,
+    "conference_id": "biotech-world-2026",
+    "title": "CRISPR-Cas9 Gene Editing: Clinical Trials Update",
+    "description": "Current state of CRISPR therapies in clinical trials. Covers in-vivo vs ex-vivo editing, LNP and AAV delivery, off-target safety profiling, and approved therapies for sickle cell disease and beta-thalassemia.",
+    "speaker": "Dr. Jennifer Doudna",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-20"
+  },
+  {
+    "id": 144,
+    "conference_id": "biotech-world-2026",
+    "title": "mRNA Technology: Beyond COVID-19 Vaccines",
+    "description": "Expanding the mRNA platform to personalised cancer vaccines, rare disease treatments, and infectious disease prevention. Covers LNP optimisation, self-amplifying mRNA, and ongoing Phase II/III trials.",
+    "speaker": "Dr. Katalin Karikó",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-20"
+  },
+  {
+    "id": 145,
+    "conference_id": "biotech-world-2026",
+    "title": "Engineering Metabolic Pathways for Bioproduction",
+    "description": "Using synthetic biology to engineer microbes and yeast for producing biofuels, pharmaceuticals, and specialty chemicals. Covers flux balance analysis, pathway optimisation, and industrial fermentation scale-up.",
+    "speaker": "Prof. Jay Keasling",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-07-20"
+  },
+  {
+    "id": 146,
+    "conference_id": "biotech-world-2026",
+    "title": "AI-Driven Protein Engineering and De Novo Design",
+    "description": "Using deep learning to engineer proteins with novel functions — ProteinMPNN and RFdiffusion for de novo design, directed evolution with ML-guided fitness landscapes, and therapeutic enzyme engineering.",
+    "speaker": "Dr. David Baker",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-21"
+  },
+  {
+    "id": 147,
+    "conference_id": "biotech-world-2026",
+    "title": "Organoids and 3D Cell Culture for Drug Testing",
+    "description": "Patient-derived organoids as predictive models for drug response. Applications in oncology, GI disease, and rare genetic disorders. Integration with high-content imaging and AI-based phenotypic analysis.",
+    "speaker": "Prof. Hans Clevers",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-21"
+  },
+  {
+    "id": 148,
+    "conference_id": "biotech-world-2026",
+    "title": "Antibody Engineering: Bispecifics, Nanobodies, and ADCs",
+    "description": "Next-generation antibody formats including bispecific T-cell engagers, antibody-drug conjugates, and camelid nanobodies. Engineering strategies for improved specificity, half-life extension, and reduced immunogenicity.",
+    "speaker": "Dr. Paul Carter",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-22"
+  },
+  {
+    "id": 149,
+    "conference_id": "biotech-world-2026",
+    "title": "Biotech Regulatory Landscape: FDA and EMA in 2026",
+    "description": "Navigating regulatory pathways for biologics, ATMPs, and AI-assisted drug development. FDA CDER digital health guidance, EMA adaptive licensing, real-world evidence requirements, and post-approval commitments.",
+    "speaker": "Dr. Rachel Sherman",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-22"
+  },
+  {
+    "id": 150,
+    "conference_id": "cell-gene-therapy-2026",
+    "title": "CAR-T Therapy: From Hematology to Solid Tumors",
+    "description": "Progress in chimeric antigen receptor T-cell therapy beyond blood cancers. Engineering armoured CAR-Ts to survive the immunosuppressive solid tumor microenvironment, next-generation CAR designs, and in-vivo manufacturing.",
+    "speaker": "Dr. Carl June",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-14"
+  },
+  {
+    "id": 151,
+    "conference_id": "cell-gene-therapy-2026",
+    "title": "AAV Vector Design for In-Vivo Gene Delivery",
+    "description": "Adeno-associated virus capsid engineering for tissue-specific tropism, immune evasion, and high-capacity payloads. Covers directed evolution of capsids, manufacturing challenges, and clinical results in neuromuscular disease.",
+    "speaker": "Dr. James Wilson",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-14"
+  },
+  {
+    "id": 152,
+    "conference_id": "cell-gene-therapy-2026",
+    "title": "Base Editing and Prime Editing: Precision Beyond CRISPR",
+    "description": "Chemical and mechanistic basis of base editors (CBEs, ABEs) and prime editing. Clinical applications for correcting point mutations in genetic diseases, safety profiles, and comparison with HDR-based approaches.",
+    "speaker": "Prof. David Liu",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-09-14"
+  },
+  {
+    "id": 153,
+    "conference_id": "cell-gene-therapy-2026",
+    "title": "Lentiviral Vectors in Clinical Gene Therapy",
+    "description": "Lentiviral vector design for stable genomic integration in HSCs and T cells. Clinical outcomes in ADA-SCID, X-linked CGD, and metachromatic leukodystrophy. Genotoxicity monitoring and insertional oncogenesis risk.",
+    "speaker": "Dr. Luigi Naldini",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 154,
+    "conference_id": "cell-gene-therapy-2026",
+    "title": "Gene Therapy Manufacturing: From Bench to Commercial Scale",
+    "description": "Overcoming biomanufacturing bottlenecks for viral vector and cell therapy products. Automation, closed-system bioprocessing, QC analytics, cost-of-goods reduction strategies, and CDMO partnerships.",
+    "speaker": "Dr. Katherine High",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-15"
+  },
+  {
+    "id": 155,
+    "conference_id": "cell-gene-therapy-2026",
+    "title": "iPSC-Derived Cell Therapies: Allogeneic off-the-Shelf Products",
+    "description": "Generating therapeutic cell types (NK cells, T cells, cardiomyocytes) from induced pluripotent stem cells. HLA engineering for immune evasion, scalable differentiation protocols, and clinical trial status.",
+    "speaker": "Prof. Shinya Yamanaka",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-16"
+  },
+  {
+    "id": 156,
+    "conference_id": "cell-gene-therapy-2026",
+    "title": "In-Vivo CRISPR Delivery: LNPs, Exosomes, and Beyond",
+    "description": "Non-viral delivery of CRISPR-Cas components for in-vivo gene editing. Lipid nanoparticle formulation, extracellular vesicle engineering, and emerging delivery modalities for liver, lung, and CNS targets.",
+    "speaker": "Prof. Daniel Anderson",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-16"
+  },
+  {
+    "id": 157,
+    "conference_id": "synthetic-bio-2026",
+    "title": "Designing Genetic Circuits with Boolean Logic",
+    "description": "Engineering programmable gene circuits that implement logic gates, memory elements, and analog computation in living cells. Applications in biosensing, therapeutic delivery, and biomanufacturing process control.",
+    "speaker": "Prof. Jim Collins",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-09"
+  },
+  {
+    "id": 158,
+    "conference_id": "synthetic-bio-2026",
+    "title": "Cell-Free Synthetic Biology and Point-of-Care Diagnostics",
+    "description": "Freeze-dried cell-free expression systems for portable diagnostics. SHERLOCK and DETECTR platforms, toehold switch biosensors, and field-deployable tests for infectious disease and environmental monitoring.",
+    "speaker": "Dr. Michael Jewett",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-09"
+  },
+  {
+    "id": 159,
+    "conference_id": "synthetic-bio-2026",
+    "title": "Directed Evolution: Engineering Enzymes with Machine Learning",
+    "description": "Combining laboratory evolution with ML models to navigate fitness landscapes efficiently. Protein language models for variant scoring, active learning for experimental design, and industrial enzyme engineering case studies.",
+    "speaker": "Dr. Frances Arnold",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-10"
+  },
+  {
+    "id": 160,
+    "conference_id": "synthetic-bio-2026",
+    "title": "Minimal Cells and Synthetic Genomes",
+    "description": "JCVI-syn3A and the quest for a minimal viable genome. Whole-genome synthesis, genome recoding for expanded genetic codes, and what minimal cells teach us about the essential functions of life.",
+    "speaker": "Dr. Clyde Hutchison",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-10"
+  },
+  {
+    "id": 161,
+    "conference_id": "synthetic-bio-2026",
+    "title": "Biosafety, Biosecurity, and Ethics in Synthetic Biology",
+    "description": "Governance frameworks for dual-use research of concern in synthetic biology. DNA synthesis screening, gain-of-function debate, iGEM safety policies, and international biosecurity norms in an era of AI-assisted design.",
+    "speaker": "Dr. Kenneth Oye",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-11"
+  },
+  {
+    "id": 162,
+    "conference_id": "synthetic-bio-2026",
+    "title": "Living Therapeutics: Engineered Bacteria for Medicine",
+    "description": "Programming gut bacteria to sense disease biomarkers and deliver therapeutics in-situ. Engineered E. coli and Lactobacillus for IBD, metabolic disease, and cancer immunotherapy. Containment strategies and clinical trial results.",
+    "speaker": "Prof. Timothy Lu",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-11"
+  },
+  {
+    "id": 163,
+    "conference_id": "ismb-2026",
+    "title": "Single-Cell RNA Sequencing: Analysis Pipelines at Scale",
+    "description": "End-to-end scRNA-seq analysis with Scanpy, Seurat, and scVI. Cell type annotation, trajectory inference with PAGA and Monocle, batch correction methods, and handling datasets of 10 million+ cells from atlas projects.",
+    "speaker": "Prof. Fabian Theis",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-24"
+  },
+  {
+    "id": 164,
+    "conference_id": "ismb-2026",
+    "title": "AlphaFold 3 and the Future of Structural Biology",
+    "description": "AlphaFold 3 extended capabilities — predicting protein-DNA, protein-RNA, and protein-small molecule complexes. Impact on structural genomics, target identification in drug discovery, and the limits of current structure prediction.",
+    "speaker": "Dr. John Jumper",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-24"
+  },
+  {
+    "id": 165,
+    "conference_id": "ismb-2026",
+    "title": "Multi-Omics Integration with Deep Learning",
+    "description": "Fusing genomics, transcriptomics, proteomics, and metabolomics for comprehensive disease modelling. Covers MOFA+, multi-modal VAEs, and graph-based integration methods for patient stratification and biomarker discovery.",
+    "speaker": "Prof. Nir Yosef",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-08-24"
+  },
+  {
+    "id": 166,
+    "conference_id": "ismb-2026",
+    "title": "Metagenomics and the Human Microbiome",
+    "description": "Analysing microbial communities from shotgun sequencing data. Assembly, binning, taxonomic classification with Kraken2 and MetaPhlAn, functional annotation with HUMAnN, and linking microbiome composition to host disease phenotypes.",
+    "speaker": "Prof. Curtis Huttenhower",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-25"
+  },
+  {
+    "id": 167,
+    "conference_id": "ismb-2026",
+    "title": "Genome-Wide Association Studies at Biobank Scale",
+    "description": "Running GWAS on 500k+ individuals from UK Biobank and All of Us. Controlling for population stratification, fine-mapping causal variants with SuSiE and FINEMAP, and translating GWAS hits into biological mechanisms.",
+    "speaker": "Prof. Mark Daly",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-25"
+  },
+  {
+    "id": 168,
+    "conference_id": "ismb-2026",
+    "title": "Spatial Transcriptomics: Mapping Gene Expression in Tissue",
+    "description": "Technologies for spatially resolved gene expression — 10x Visium, Slide-seq, MERFISH, and Xenium. Computational methods for spatial clustering, ligand-receptor cell communication, and 3D tissue atlas reconstruction.",
+    "speaker": "Dr. Rahul Satija",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-26"
+  },
+  {
+    "id": 169,
+    "conference_id": "ismb-2026",
+    "title": "Drug Repurposing with Biological Knowledge Graphs",
+    "description": "Mining biomedical knowledge graphs (Hetionet, SPOKE, Open Targets) for drug repurposing candidates. Graph neural network link prediction, embedding methods, and validation against real-world clinical trial outcomes.",
+    "speaker": "Prof. Marinka Zitnik",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-26"
+  },
+  {
+    "id": 170,
+    "conference_id": "recomb-2026",
+    "title": "Long-Read Genome Assembly: Algorithms and Applications",
+    "description": "De novo genome assembly from PacBio HiFi and Oxford Nanopore reads. HiFiasm, Verkko, and hifiasm-meta algorithms, T2T chromosome-level assemblies, and the complete human pangenome reference project.",
+    "speaker": "Dr. Heng Li",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-12"
+  },
+  {
+    "id": 171,
+    "conference_id": "recomb-2026",
+    "title": "RNA Structure Prediction with Deep Learning",
+    "description": "Predicting secondary and tertiary RNA structure using transformer-based models. EternaFold, RoseTTAFoldNA, and RhoFold+. Applications in mRNA vaccine design, ribozyme engineering, and RNA-targeting drug discovery.",
+    "speaker": "Dr. Rhiju Das",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-12"
+  },
+  {
+    "id": 172,
+    "conference_id": "recomb-2026",
+    "title": "Comparative Genomics and Phylogenomics",
+    "description": "Reconstructing evolutionary history from thousands of genomes. Scalable phylogenetic methods (ASTRAL, IQ-TREE), whole-genome alignment, synteny analysis, and detecting positive selection in protein-coding genes.",
+    "speaker": "Prof. Tandy Warnow",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-13"
+  },
+  {
+    "id": 173,
+    "conference_id": "recomb-2026",
+    "title": "Epigenomics: Chromatin Accessibility and 3D Genome Organisation",
+    "description": "ATAC-seq, CUT&RUN, and Hi-C analysis for mapping regulatory landscapes. Identifying enhancer-promoter interactions, TAD boundaries, and epigenetic changes in cancer and development.",
+    "speaker": "Prof. William Noble",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-13"
+  },
+  {
+    "id": 174,
+    "conference_id": "recomb-2026",
+    "title": "Single-Cell Multi-Omics: CITE-seq, ATAC-seq, and Spatial",
+    "description": "Simultaneous profiling of gene expression, chromatin accessibility, and protein levels at single-cell resolution. Computational frameworks for multimodal data integration and regulatory network inference.",
+    "speaker": "Dr. Aviv Regev",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 175,
+    "conference_id": "recomb-2026",
+    "title": "Protein Language Models for Function Prediction",
+    "description": "ESM-2, ESM-3, ProtTrans, and Ankh as universal protein encoders. Zero-shot variant effect prediction, remote homology detection, and learning evolutionary constraints from sequence alone.",
+    "speaker": "Dr. Alexander Rives",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-14"
+  },
+  {
+    "id": 176,
+    "conference_id": "genome-informatics-2026",
+    "title": "Pangenome Graphs: Beyond the Linear Reference Genome",
+    "description": "The human pangenome reference consortium and graph-based genome representations. minigraph-cactus construction, genotyping structural variants with vg, and implications for population genomics and rare disease diagnosis.",
+    "speaker": "Prof. Benedict Paten",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-12-07"
+  },
+  {
+    "id": 177,
+    "conference_id": "genome-informatics-2026",
+    "title": "Deep Learning for Variant Calling: DeepVariant and Beyond",
+    "description": "Pileup image-based variant calling with DeepVariant, PEPPER-Margin-DeepVariant for long reads, and recent models using transformer architectures. Benchmarking on GIAB and clinical sequencing datasets.",
+    "speaker": "Dr. Andrew Carroll",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-12-07"
+  },
+  {
+    "id": 178,
+    "conference_id": "genome-informatics-2026",
+    "title": "Gene Regulatory Networks from Single-Cell Data",
+    "description": "Inferring transcription factor regulons and gene regulatory networks from scRNA-seq and scATAC-seq. SCENIC+, GRNBoost2, and causal approaches to distinguish drivers from downstream targets in development and disease.",
+    "speaker": "Dr. Cole Trapnell",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-12-08"
+  },
+  {
+    "id": 179,
+    "conference_id": "genome-informatics-2026",
+    "title": "Functional Annotation of Non-Coding Variants",
+    "description": "Predicting the functional impact of variants in regulatory regions using Enformer, Borzoi, and sequence-to-function models. Prioritising non-coding GWAS hits and identifying causal regulatory variants in complex disease.",
+    "speaker": "Dr. Manolis Kellis",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-12-08"
+  },
+  {
+    "id": 180,
+    "conference_id": "genome-informatics-2026",
+    "title": "Nanopore Direct RNA Sequencing and Epitranscriptomics",
+    "description": "Direct sequencing of RNA molecules with nanopore technology — full-length isoform detection, m6A and pseudouridine modification calling, and real-time transcriptome monitoring without reverse transcription.",
+    "speaker": "Dr. Jared Simpson",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-12-09"
+  },
+  {
+    "id": 181,
+    "conference_id": "genome-informatics-2026",
+    "title": "Clinical Genomics: Rare Disease Diagnosis at Scale",
+    "description": "Whole-genome sequencing in clinical diagnostics. Automated variant prioritisation with AI, phenotype-driven analysis with HPO terms, short-read vs long-read for structural variant detection, and reporting standards.",
+    "speaker": "Dr. Zornitza Stark",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-12-09"
+  },
+  {
+    "id": 182,
+    "conference_id": "quantum-tech-2026",
+    "title": "Superconducting Qubits: Milestones and the Road to Fault Tolerance",
+    "description": "Progress report on superconducting qubit systems from IBM, Google, and Amazon. Current gate fidelities, qubit counts, and coherence times. What separates today's NISQ processors from fault-tolerant quantum computing.",
+    "speaker": "Prof. John Martinis",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-13"
+  },
+  {
+    "id": 183,
+    "conference_id": "quantum-tech-2026",
+    "title": "Quantum Error Correction: Surface Codes in Practice",
+    "description": "How surface codes protect logical qubits from physical errors. Threshold theorems, minimum-weight perfect matching decoders, neural network decoders, and what it takes to achieve fault-tolerant logical operations.",
+    "speaker": "Prof. Barbara Terhal",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-13"
+  },
+  {
+    "id": 184,
+    "conference_id": "quantum-tech-2026",
+    "title": "Trapped-Ion Quantum Computers: IonQ and Quantinuum",
+    "description": "The physics and engineering of trapped-ion systems. All-to-all connectivity, high two-qubit gate fidelities, and the QCCD architecture for scaling. Benchmarking against superconducting systems on practical workloads.",
+    "speaker": "Prof. Christopher Monroe",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-14"
+  },
+  {
+    "id": 185,
+    "conference_id": "quantum-tech-2026",
+    "title": "Topological Qubits and Non-Abelian Anyons",
+    "description": "The physics of Majorana zero modes as a basis for topologically protected qubits. Microsoft's recent experimental evidence, the challenge of braiding operations, and the long-term promise of hardware-level error protection.",
+    "speaker": "Dr. Sankar Das Sarma",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-14"
+  },
+  {
+    "id": 186,
+    "conference_id": "quantum-tech-2026",
+    "title": "Quantum Networking and the Quantum Internet",
+    "description": "Building quantum networks for secure communication, distributed quantum computing, and clock synchronisation. Quantum repeaters, entanglement distribution over optical fibre, and the architecture of a future quantum internet.",
+    "speaker": "Prof. Stephanie Wehner",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-07-15"
+  },
+  {
+    "id": 187,
+    "conference_id": "quantum-tech-2026",
+    "title": "Quantum Advantage: Real Applications vs Hype",
+    "description": "Critical assessment of claimed quantum speedups. Variational quantum eigensolvers for chemistry, quantum optimisation with QAOA, quantum ML, and an honest analysis of where practical quantum advantage is achievable today.",
+    "speaker": "Dr. Scott Aaronson",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-07-15"
+  },
+  {
+    "id": 188,
+    "conference_id": "physics-summit-2026",
+    "title": "Gravitational Wave Astronomy: LIGO-Virgo-KAGRA O4 Results",
+    "description": "Key discoveries from the fourth observing run: binary black hole and neutron star mergers, tests of general relativity with compact binaries, Hubble constant measurements from gravitational wave sirens, and multi-messenger observations.",
+    "speaker": "Prof. Gabriela González",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-07"
+  },
+  {
+    "id": 189,
+    "conference_id": "physics-summit-2026",
+    "title": "Particle Physics: LHC Run 3 and Future Colliders",
+    "description": "Latest results from ATLAS and CMS at 13.6 TeV — precision Higgs measurements, searches for new physics beyond the Standard Model, and the physics case for FCC-ee, ILC, and a muon collider.",
+    "speaker": "Prof. Fabiola Gianotti",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-07"
+  },
+  {
+    "id": 190,
+    "conference_id": "physics-summit-2026",
+    "title": "Dark Matter: Direct and Indirect Detection Experiments",
+    "description": "Status of dark matter searches at LZ, XENONnT, and PandaX for WIMPs; Fermi-LAT and CTA for indirect annihilation signals; and axion experiments (ADMX, ABRACADABRA). Where do we stand on dark matter detection in 2026?",
+    "speaker": "Prof. Priscilla Cushman",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-08"
+  },
+  {
+    "id": 191,
+    "conference_id": "physics-summit-2026",
+    "title": "JWST and the Early Universe: Cosmology Surprises",
+    "description": "JWST discoveries reshaping our understanding of the early universe — unexpectedly massive early galaxies, reionisation epoch measurements, and tensions with the standard ΛCDM cosmological model. What does it all mean?",
+    "speaker": "Dr. Jane Rigby",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-08"
+  },
+  {
+    "id": 192,
+    "conference_id": "physics-summit-2026",
+    "title": "Machine Learning in High-Energy Physics",
+    "description": "Deep learning for jet tagging, particle reconstruction, and event classification at the LHC. Graph neural networks for tracking, anomaly detection for model-agnostic new physics searches, and fast ML inference at the trigger level.",
+    "speaker": "Prof. Kyle Cranmer",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 193,
+    "conference_id": "physics-summit-2026",
+    "title": "Nuclear Fusion Energy: Progress at ITER and Private Ventures",
+    "description": "Status of ITER construction and first plasma timeline. Record-breaking results from NIF's inertial confinement and Commonwealth Fusion's SPARC high-temperature superconducting magnet. The race to commercial fusion power.",
+    "speaker": "Dr. Kim Budil",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-09"
+  },
+  {
+    "id": 194,
+    "conference_id": "astrophysics-conf-2026",
+    "title": "Black Hole Imaging: Event Horizon Telescope Science",
+    "description": "Results from EHT observations of M87* and Sgr A*. Black hole shadow morphology, jet launching physics, and upcoming ngEHT improvements for real-time black hole movies and polarimetric imaging.",
+    "speaker": "Dr. Sheperd Doeleman",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-26"
+  },
+  {
+    "id": 195,
+    "conference_id": "astrophysics-conf-2026",
+    "title": "Exoplanet Atmospheres with JWST Spectroscopy",
+    "description": "JWST transmission and emission spectroscopy of exoplanet atmospheres — detecting CO2, methane, water, and searching for biosignature gases. Rocky planet characterisation and prospects for habitability assessment.",
+    "speaker": "Dr. Nikku Madhusudhan",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-26"
+  },
+  {
+    "id": 196,
+    "conference_id": "astrophysics-conf-2026",
+    "title": "Fast Radio Bursts: Origins and Cosmological Applications",
+    "description": "The growing FRB sample from CHIME and ASKAP — localising sources, identifying repeaters, host galaxy properties, and using FRBs as cosmological probes to measure baryon density and intergalactic magnetic fields.",
+    "speaker": "Dr. Victoria Kaspi",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-27"
+  },
+  {
+    "id": 197,
+    "conference_id": "astrophysics-conf-2026",
+    "title": "Multimessenger Astronomy: Neutrinos, Photons, and Gravitational Waves",
+    "description": "IceCube astrophysical neutrino sources, coordinated follow-up with Fermi-LAT and Cherenkov telescopes, and the promise of combined GW+EM observations for understanding extreme astrophysical events.",
+    "speaker": "Prof. Francis Halzen",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-27"
+  },
+  {
+    "id": 198,
+    "conference_id": "astrophysics-conf-2026",
+    "title": "Machine Learning for Large Astronomical Surveys",
+    "description": "AI methods for the Vera Rubin Observatory LSST, Euclid, and SKA surveys. Automated transient classification, photometric redshift estimation, weak gravitational lensing analysis, and anomaly detection for rare astrophysical phenomena.",
+    "speaker": "Prof. Alex Szalay",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-28"
+  },
+  {
+    "id": 199,
+    "conference_id": "astrophysics-conf-2026",
+    "title": "The Roman Space Telescope and Next-Generation Observatories",
+    "description": "Science goals of the Nancy Grace Roman Space Telescope — dark energy wide-field survey, microlensing exoplanet census, and coronagraphic direct imaging. Looking ahead to Habitable Worlds Observatory.",
+    "speaker": "Dr. Natalie Batalha",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-28"
+  },
+  {
+    "id": 200,
+    "conference_id": "comp-chem-2026",
+    "title": "Machine Learning Interatomic Potentials: MACE, NequIP, and CHGNet",
+    "description": "Replacing expensive DFT with equivariant neural network potentials for large-scale molecular dynamics. Accuracy benchmarks on reaction barriers, phonons, and phase transitions. Active learning for dataset construction.",
+    "speaker": "Prof. Michele Ceriotti",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-17"
+  },
+  {
+    "id": 201,
+    "conference_id": "comp-chem-2026",
+    "title": "Quantum Chemistry with Machine Learning: Solving the Schrödinger Equation",
+    "description": "Neural network wavefunctions (FermiNet, PauliNet, DeepErwin) for solving the electronic structure problem. Scaling to larger molecules, excited states, and the prospect of accuracy beyond coupled cluster methods.",
+    "speaker": "Prof. Frank Noé",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-17"
+  },
+  {
+    "id": 202,
+    "conference_id": "comp-chem-2026",
+    "title": "Free Energy Calculations for Protein-Ligand Binding",
+    "description": "Alchemical free energy perturbation, thermodynamic integration, and enhanced sampling methods for predicting binding affinities. Prospective accuracy benchmarks, automation platforms, and integration into drug discovery pipelines.",
+    "speaker": "Dr. John Chodera",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-18"
+  },
+  {
+    "id": 203,
+    "conference_id": "comp-chem-2026",
+    "title": "Molecular Dynamics at Millisecond Timescales",
+    "description": "Accessing biologically relevant timescales with specialised hardware (Anton 3), adaptive sampling (metadynamics, REST2), and Markov state models. Applications in protein folding, conformational change, and drug binding kinetics.",
+    "speaker": "Prof. David Shaw",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-18"
+  },
+  {
+    "id": 204,
+    "conference_id": "comp-chem-2026",
+    "title": "Automated Reaction Mechanism Discovery",
+    "description": "Computational tools for exploring chemical reaction networks without human bias — RDKit, autodE, ORCA-based workflows, and ML-guided transition state search. Applications in catalysis, photochemistry, and combustion.",
+    "speaker": "Prof. Markus Reiher",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-19"
+  },
+  {
+    "id": 205,
+    "conference_id": "comp-chem-2026",
+    "title": "Computational Catalyst Design with Machine Learning",
+    "description": "Accelerating heterogeneous catalyst discovery using DFT-ML hybrid workflows, the Open Catalyst 2020/2022 datasets, and graph neural network adsorption energy predictors. Active learning cycles and experimental validation.",
+    "speaker": "Dr. Zachary Ulissi",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-19"
+  },
+  {
+    "id": 206,
+    "conference_id": "chem-summit-2026",
+    "title": "Generative Models for Drug-Like Molecule Design",
+    "description": "Designing novel drug candidates with generative AI — graph VAEs, diffusion models (DiffSBDD, TargetDiff), flow matching, and reinforcement learning for multi-objective molecular optimisation guided by docking scores and synthesisability.",
+    "speaker": "Prof. Alán Aspuru-Guzik",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-19"
+  },
+  {
+    "id": 207,
+    "conference_id": "chem-summit-2026",
+    "title": "Retrosynthesis Planning with Transformer Models",
+    "description": "Treating chemistry as a language — SMILES-based transformers for single-step reaction prediction and multi-step retrosynthetic planning. AiZynthFinder, ASKCOS, and Chemist benchmarks for evaluating planning quality.",
+    "speaker": "Dr. Philippe Schwaller",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-19"
+  },
+  {
+    "id": 208,
+    "conference_id": "chem-summit-2026",
+    "title": "ADMET Prediction with Graph Neural Networks",
+    "description": "Predicting absorption, distribution, metabolism, excretion, and toxicity from molecular structure. TDC benchmark performance, uncertainty quantification for safety-critical predictions, and handling data imbalance in toxicity datasets.",
+    "speaker": "Dr. Bharath Ramsundar",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-20"
+  },
+  {
+    "id": 209,
+    "conference_id": "chem-summit-2026",
+    "title": "Materials Discovery for Next-Generation Battery Technology",
+    "description": "Applying GNNs to predict crystal stability, ionic conductivity, and electrochemical stability windows for solid electrolytes and cathode materials. The Materials Project and high-throughput DFT screening workflows.",
+    "speaker": "Prof. Kristin Persson",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-20"
+  },
+  {
+    "id": 210,
+    "conference_id": "chem-summit-2026",
+    "title": "Green Chemistry and AI-Assisted Sustainable Synthesis",
+    "description": "Using machine learning to design greener synthetic routes — predicting reaction conditions, minimising E-factor waste, replacing hazardous reagents, and incorporating atom economy metrics into automated retrosynthesis planning.",
+    "speaker": "Prof. Klavs Jensen",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-10-21"
+  },
+  {
+    "id": 211,
+    "conference_id": "chem-summit-2026",
+    "title": "Self-Driving Laboratories for Accelerated Chemical Discovery",
+    "description": "Autonomous experimental platforms that close the loop between prediction and synthesis. Robotic liquid handlers, in-line analytical chemistry (HPLC, NMR), Bayesian optimisation strategies, and case studies in reaction condition optimisation.",
+    "speaker": "Prof. Jason Hein",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-10-21"
+  },
+  {
+    "id": 212,
+    "conference_id": "medicinal-chem-2026",
+    "title": "Fragment-Based Drug Discovery Enhanced by AI",
+    "description": "Combining fragment screening with ML-guided elaboration for hit-to-lead optimisation. Structure-activity relationship modelling, generative fragment growing, and integration with cryo-EM for rapid hit confirmation.",
+    "speaker": "Dr. Chris Murray",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-23"
+  },
+  {
+    "id": 213,
+    "conference_id": "medicinal-chem-2026",
+    "title": "Covalent Drugs: Targeting Undruggable Proteins",
+    "description": "Rational design of covalent inhibitors for historically intractable targets — KRAS G12C, EGFR, and BTK. Warhead selection, selectivity profiling with activity-based proteomics, and clinical success stories.",
+    "speaker": "Prof. Kevan Shokat",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-23"
+  },
+  {
+    "id": 214,
+    "conference_id": "medicinal-chem-2026",
+    "title": "PROTACs and Targeted Protein Degradation",
+    "description": "Bifunctional molecules that recruit E3 ubiquitin ligases to degrade disease-causing proteins. PROTAC design rules, hook effect, ternary complex modelling with ML, and clinical progress in oncology.",
+    "speaker": "Prof. Craig Crews",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-24"
+  },
+  {
+    "id": 215,
+    "conference_id": "medicinal-chem-2026",
+    "title": "Macrocycles as Therapeutics: Design and Permeability",
+    "description": "Macrocyclic drug design for challenging targets like protein-protein interactions. Computational conformational sampling, passive permeability prediction, and ML-guided macrocycle library design.",
+    "speaker": "Dr. Gisbert Schneider",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-24"
+  },
+  {
+    "id": 216,
+    "conference_id": "medicinal-chem-2026",
+    "title": "Phenotypic Drug Discovery in the Age of AI",
+    "description": "Revisiting phenotypic screening with modern tools: cell painting with morphological profiling, high-content imaging AI, and target deconvolution strategies using chemoproteomics and ML.",
+    "speaker": "Prof. Stuart Schreiber",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-25"
+  },
+  {
+    "id": 217,
+    "conference_id": "medicinal-chem-2026",
+    "title": "AI-Assisted Clinical Candidate Selection and Optimisation",
+    "description": "Using predictive models to guide lead optimisation decisions — balancing potency, selectivity, ADMET, and synthesisability simultaneously. Multi-parameter optimisation platforms and human-AI collaborative workflows in pharma.",
+    "speaker": "Dr. Anthony Bradley",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-25"
+  },
+  {
+    "id": 218,
+    "conference_id": "dl-summit-2026",
+    "title": "State Space Models: Mamba and Hybrid Architectures",
+    "description": "The rise of selective state space models as transformer alternatives for long sequences. S4, Mamba, and Mamba-2 mechanics, hybrid SSM-attention architectures, and benchmarks on language, audio, genomics, and video tasks.",
+    "speaker": "Prof. Albert Gu",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-10"
+  },
+  {
+    "id": 219,
+    "conference_id": "dl-summit-2026",
+    "title": "Vision Transformers in 2026: Efficiency, Scale, and Adaptation",
+    "description": "State of vision transformers — DINOv2, SAM 2, and efficient architectures (EfficientViT). ViTs as universal visual encoders for downstream tasks, parameter-efficient fine-tuning, and comparison with modern ConvNets.",
+    "speaker": "Dr. Kaiming He",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-10"
+  },
+  {
+    "id": 220,
+    "conference_id": "dl-summit-2026",
+    "title": "Neural Scaling Laws: Insights from Frontier Training",
+    "description": "Empirical and theoretical analysis of how loss scales with compute, data, and parameters beyond Chinchilla. Data quality vs quantity, multimodal scaling, and what the loss curves predict about capabilities at 10^27 FLOPs.",
+    "speaker": "Dr. Jared Kaplan",
+    "start_time": 11,
+    "end_time": 12,
+    "date": "2026-08-10"
+  },
+  {
+    "id": 221,
+    "conference_id": "dl-summit-2026",
+    "title": "Efficient Inference: Quantisation, Pruning, and Speculative Decoding",
+    "description": "Making large models fast and cheap to serve. INT4 quantisation with GPTQ and AWQ, structured pruning, knowledge distillation, and speculative decoding for 3–5× inference speedups without quality loss.",
+    "speaker": "Dr. Song Han",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 222,
+    "conference_id": "dl-summit-2026",
+    "title": "Physics-Informed Neural Networks for Scientific Computing",
+    "description": "Training neural networks that satisfy physical laws — PDEs, conservation equations, and symmetry constraints. Applications in fluid dynamics, heat transfer, and materials science. Comparison with traditional numerical solvers.",
+    "speaker": "Prof. George Karniadakis",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-11"
+  },
+  {
+    "id": 223,
+    "conference_id": "dl-summit-2026",
+    "title": "Geometric Deep Learning: Equivariance and Symmetry",
+    "description": "Building neural networks that respect symmetries of the data — E(3) equivariance for molecular systems, gauge equivariance for lattice field theories, and the unifying framework of group theory in deep learning.",
+    "speaker": "Prof. Max Welling",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-12"
+  },
+  {
+    "id": 224,
+    "conference_id": "dl-summit-2026",
+    "title": "Deep Learning for Climate and Earth System Modelling",
+    "description": "Neural weather prediction (GraphCast, Pangu-Weather, FourCastNet) vs traditional NWP. Downscaling climate projections, extreme event prediction, and emulating expensive physics-based Earth system models with diffusion models.",
+    "speaker": "Dr. Stephan Rasp",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-12"
+  },
+  {
+    "id": 225,
+    "conference_id": "deep-learning-conf-2026",
+    "title": "Diffusion Models: Theory, Architectures, and New Frontiers",
+    "description": "From DDPM to consistency models and flow matching — the unifying theory behind score-based generative models. DiT architectures, video diffusion (Sora), 3D generation, and scientific applications in drug design and materials.",
+    "speaker": "Dr. Yang Song",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-28"
+  },
+  {
+    "id": 226,
+    "conference_id": "deep-learning-conf-2026",
+    "title": "Test-Time Compute and Chain-of-Thought Reasoning",
+    "description": "Scaling inference compute for better reasoning — chain-of-thought prompting, self-consistency, tree-of-thought search, and the o1/o3 paradigm of thinking tokens. How much can we gain by thinking longer?",
+    "speaker": "Dr. Noam Brown",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-28"
+  },
+  {
+    "id": 227,
+    "conference_id": "deep-learning-conf-2026",
+    "title": "Multi-Agent LLM Systems: Coordination and Reliability",
+    "description": "Designing multi-agent systems where specialised LLMs collaborate on complex tasks. Orchestration frameworks, memory sharing, tool use, failure modes in agent pipelines, and evaluation methodologies for agentic behaviour.",
+    "speaker": "Prof. Stuart Russell",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-29"
+  },
+  {
+    "id": 228,
+    "conference_id": "deep-learning-conf-2026",
+    "title": "World Models and Model-Based Reinforcement Learning",
+    "description": "Learning compressed world models for planning and imagination. DREAMER, IRIS, and latent diffusion-based world models. Applications in robotics, game-playing, and autonomous driving without real-world rollouts.",
+    "speaker": "Dr. David Ha",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-29"
+  },
+  {
+    "id": 229,
+    "conference_id": "deep-learning-conf-2026",
+    "title": "Hallucination Mitigation in Large Language Models",
+    "description": "Understanding why LLMs confabulate and how to reduce it. Retrieval augmentation, chain-of-verification, calibration through RLHF, factuality fine-tuning, and benchmarks for measuring truthfulness in deployed systems.",
+    "speaker": "Prof. Percy Liang",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-09-30"
+  },
+  {
+    "id": 230,
+    "conference_id": "deep-learning-conf-2026",
+    "title": "Neural Architecture Search and Automated ML in 2026",
+    "description": "Where NAS stands today — differentiable architecture search, hardware-aware NAS, and one-shot supernets. LLMs as optimisers for architecture search, meta-learning for fast adaptation, and automated pipeline design.",
+    "speaker": "Prof. Quoc Le",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-09-30"
+  },
+  {
+    "id": 231,
+    "conference_id": "computational-neuro-2026",
+    "title": "Spiking Neural Networks and Neuromorphic Computing",
+    "description": "Biologically plausible learning with spike-timing-dependent plasticity, surrogate gradient training, and large-scale neuromorphic hardware (Intel Loihi 2, BrainScaleS-2). Energy efficiency benchmarks vs traditional ANNs.",
+    "speaker": "Prof. Wolfgang Maass",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-03"
+  },
+  {
+    "id": 232,
+    "conference_id": "computational-neuro-2026",
+    "title": "Brain-Computer Interfaces: High-Bandwidth Neural Decoding",
+    "description": "State of BCI technology — Utah arrays, Neuropixels, and high-density ECoG for motor and speech decoding. Neuralink clinical trial results, wireless implants, and deep learning decoders for real-time neural prosthetics.",
+    "speaker": "Dr. Frank Guenther",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-03"
+  },
+  {
+    "id": 233,
+    "conference_id": "computational-neuro-2026",
+    "title": "Neural Population Dynamics and Dimensionality Reduction",
+    "description": "Low-dimensional manifolds in high-dimensional neural recordings. GPFA, CEBRA, LFADS, and Poisson VAEs for extracting latent dynamics. What population-level analysis reveals about computation in cortex, cerebellum, and hippocampus.",
+    "speaker": "Prof. Surya Ganguli",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 234,
+    "conference_id": "computational-neuro-2026",
+    "title": "Connectomics: Mapping Complete Neural Wiring Diagrams",
+    "description": "Electron microscopy reconstruction of complete nervous systems — the Drosophila hemibrain and C. elegans connectome. Automated proofreading with AI, synapse detection, and what wiring diagrams tell us about circuit function.",
+    "speaker": "Dr. H. Sebastian Seung",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-04"
+  },
+  {
+    "id": 235,
+    "conference_id": "computational-neuro-2026",
+    "title": "Deep Learning as a Model of Visual Cortex",
+    "description": "Comparing deep neural network representations to primate V1, V2, V4, and IT cortex. Predicting neural responses to natural images, texture synthesis as a model of V2, and the limits of current DNN brain models.",
+    "speaker": "Prof. Nikolaus Kriegeskorte",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 236,
+    "conference_id": "computational-neuro-2026",
+    "title": "Reinforcement Learning and Dopaminergic Reward Circuits",
+    "description": "Parallels between temporal difference learning and dopamine neuron firing. Distributional RL as a model of the basal ganglia, successor representation in hippocampus, and computational psychiatry for modelling addiction and depression.",
+    "speaker": "Prof. Matthew Botvinick",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-08-05"
+  },
+  {
+    "id": 237,
+    "conference_id": "sfn-2026",
+    "title": "Neural Basis of Memory Consolidation: From Synapses to Systems",
+    "description": "How memories are stabilised from short-term to long-term storage. Hippocampal-neocortical dialogue during sleep, sharp-wave ripples, systems consolidation theory, and evidence from engram cell studies in rodents and humans.",
+    "speaker": "Prof. Susumu Tonegawa",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-16"
+  },
+  {
+    "id": 238,
+    "conference_id": "sfn-2026",
+    "title": "Optogenetics at 15: Controlling Neural Circuits with Light",
+    "description": "A retrospective on 15 years of optogenetics — channelrhodopsin variants, soma-targeted opsin expression, fibre photometry, and all-optical interrogation combining stimulation with calcium imaging for circuit dissection.",
+    "speaker": "Prof. Karl Deisseroth",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-16"
+  },
+  {
+    "id": 239,
+    "conference_id": "sfn-2026",
+    "title": "AI for Drug Discovery in Neurological Disorders",
+    "description": "Machine learning approaches targeting Alzheimer's, Parkinson's, ALS, and psychiatric disorders. Microglial biology and neuroinflammation as drug targets, biomarker discovery from neuroimaging, and repurposing strategies.",
+    "speaker": "Dr. Beth Stevens",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-17"
+  },
+  {
+    "id": 240,
+    "conference_id": "sfn-2026",
+    "title": "Large-Scale Neural Recording: Neuropixels 3.0 and Beyond",
+    "description": "Recording from thousands of neurons simultaneously with next-generation silicon probes. Spike sorting at scale (Kilosort4, MountainSort5), drift correction, multi-region recordings, and challenges for analysing terabyte-scale datasets.",
+    "speaker": "Dr. Timothy Harris",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-17"
+  },
+  {
+    "id": 241,
+    "conference_id": "sfn-2026",
+    "title": "Organoid Intelligence and Brain-on-Chip Systems",
+    "description": "Cerebral organoids and assembloids as models of human brain development and disease. MEA recording from organoids, organoid-computer interfaces, learning in biological neural networks, and ethical considerations.",
+    "speaker": "Prof. Thomas Hartung",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-11-18"
+  },
+  {
+    "id": 242,
+    "conference_id": "sfn-2026",
+    "title": "Spatial Transcriptomics of the Brain: Allen Brain Cell Atlas",
+    "description": "Mapping the complete cellular diversity of the mammalian brain with spatial transcriptomics. The Allen Brain Cell Atlas project, cell type taxonomy across brain regions, and integrating morphology, connectivity, and gene expression.",
+    "speaker": "Dr. Hongkui Zeng",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-11-18"
+  },
+  {
+    "id": 243,
+    "conference_id": "materials-summit-2026",
+    "title": "High-Entropy Alloys: Discovery and Design with Machine Learning",
+    "description": "Using ML and high-throughput DFT to explore the vast compositional space of multi-principal element alloys. Property prediction for hardness, oxidation resistance, and irradiation tolerance with Gaussian process and neural network models.",
+    "speaker": "Prof. Surya Kalidindi",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-12-01"
+  },
+  {
+    "id": 244,
+    "conference_id": "materials-summit-2026",
+    "title": "Perovskite Solar Cells: Efficiency Records and Stability",
+    "description": "Breaking 26% efficiency with perovskite single-junction and tandem cells. Understanding degradation mechanisms, encapsulation strategies, lead-free alternatives, and the path to IEC-certified 20-year outdoor stability.",
+    "speaker": "Prof. Henry Snaith",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-12-01"
+  },
+  {
+    "id": 245,
+    "conference_id": "materials-summit-2026",
+    "title": "2D Materials Beyond Graphene: MoS₂, hBN, and Heterostructures",
+    "description": "Physics and applications of transition metal dichalcogenides, hexagonal boron nitride, and van der Waals heterostructures. Moiré superlattices, unconventional superconductivity, valleytronics, and atomically thin optoelectronics.",
+    "speaker": "Prof. Pablo Jarillo-Herrero",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-12-02"
+  },
+  {
+    "id": 246,
+    "conference_id": "materials-summit-2026",
+    "title": "Solid-State Batteries: Electrolytes and Interfaces",
+    "description": "Materials challenges for solid-state lithium batteries — oxide, sulfide, and polymer electrolytes. Interfacial resistance, lithium dendrite suppression, and ML-guided discovery of new solid electrolyte compositions for EV applications.",
+    "speaker": "Prof. Yet-Ming Chiang",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-12-02"
+  },
+  {
+    "id": 247,
+    "conference_id": "materials-summit-2026",
+    "title": "Metamaterials and Programmable Photonic Structures",
+    "description": "Designing materials with electromagnetic properties not found in nature — negative refractive index, perfect absorption, and topological photonics. AI-driven inverse design of metasurfaces for flat optics and cloaking devices.",
+    "speaker": "Prof. John Joannopoulos",
+    "start_time": 9,
+    "end_time": 10,
+    "date": "2026-12-03"
+  },
+  {
+    "id": 248,
+    "conference_id": "materials-summit-2026",
+    "title": "Self-Healing Polymers and Adaptive Soft Materials",
+    "description": "Designing materials that autonomously repair damage through dynamic covalent chemistry and supramolecular interactions. Stretchable electronics, self-healing hydrogels for biomedical applications, and ML for designing dynamic bond networks.",
+    "speaker": "Prof. Zhenan Bao",
+    "start_time": 10,
+    "end_time": 11,
+    "date": "2026-12-03"
   }
 ]
