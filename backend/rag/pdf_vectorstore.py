@@ -24,20 +24,29 @@ def build_session_index(session_id: str, talks: list) -> None:
     _sessions[session_id] = {"index": idx, "talks": talks}
 
 
-def retrieve_from_session(session_id: str, query: str, k: int = 5) -> list:
+def retrieve_from_session(session_id: str, query: str, k: int = 20) -> list:
     if session_id not in _sessions:
         raise KeyError(f"PDF session '{session_id}' not found")
 
     sess = _sessions[session_id]
     k = min(k, len(sess["talks"]))
     qvec = np.array([get_embedding(query)], dtype="float32")
-    distances, indices = sess["index"].search(qvec, k)
 
+    # Use cosine distance (consistent with main retriever)
     results = []
-    for i, idx in enumerate(indices[0]):
-        if idx == -1:
-            continue
-        talk = sess["talks"][idx].copy()
-        talk["score"] = float(distances[0][i])
-        results.append(talk)
-    return results
+    for talk in sess["talks"]:
+        text = f"{talk.get('title', '')} {talk.get('description', '')} {talk.get('speaker', '')}"
+        tvec = get_embedding(text).astype("float32")
+        qv = qvec[0].astype("float32")
+        norm_q = np.linalg.norm(qv)
+        norm_t = np.linalg.norm(tvec)
+        if norm_q == 0 or norm_t == 0:
+            score = 1.0
+        else:
+            score = 1.0 - float(np.dot(qv, tvec) / (norm_q * norm_t))
+        t = talk.copy()
+        t["score"] = score
+        results.append(t)
+
+    results.sort(key=lambda x: x["score"])
+    return results[:k]

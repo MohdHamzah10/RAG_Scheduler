@@ -153,11 +153,17 @@ async def upload_pdf(file: UploadFile = File(...)):
 @app.post("/recommend-pdf")
 def recommend_pdf(req: PdfRecommendRequest):
     try:
-        talks = retrieve_from_session(req.session_id, req.user_input)
+        talks = retrieve_from_session(req.session_id, req.user_input, k=20)
     except KeyError:
         raise HTTPException(status_code=404, detail="PDF session not found. Please re-upload.")
 
-    selected, alternatives = schedule(talks)
+    # Filter to relevance threshold (same as regular conference retrieval)
+    THRESHOLD = 0.72
+    relevant = [t for t in talks if t.get("score", 1.0) < THRESHOLD]
+    if len(relevant) < 2:
+        relevant = talks[:5]  # fallback: return top 5 if nothing clears threshold
+
+    selected, alternatives = schedule(relevant)
     explanation = generate(req.user_input, selected)
     return {"selected": selected, "alternatives": alternatives, "explanation": explanation}
 
